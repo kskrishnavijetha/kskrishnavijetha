@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shanmukha Krishna 👋
 
-<!--
-**kskrishnavijetha/kskrishnavijetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer & Product Builder focused on AI-native applications, LLM systems, and developer tooling.
 
-Here are some ideas to get you started:
+## Building
+- NexaBloom → AI compliance automation
+- QOSim → Quantum simulation SDK
+- Mivora → AI multilingual platform
+- NexaLearn → AI-powered learning platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- OpenAI APIs
+- Python
+- TypeScript
+- React
+- Supabase
+- Clerk
+- LLM Workflows
+
+## Live Products
+- https://nexabloom.xyz
+- https://qosim.app
+- https://mivora.app
+- https://nexalearn.app
