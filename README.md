@@ -18,7 +18,7 @@ AI Engineer & Product Builder focused on AI-native applications, LLM systems, an
 - LLM Workflows
 
 ## Live Products
-- https://nexabloom.xyz
 - https://qosim.app
 - https://mivora.app
 - https://nexalearn.app
+- https://nexabloom.xyz
